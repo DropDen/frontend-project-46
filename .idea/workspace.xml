@@ -4,24 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="baf18927-f205-483c-a4ca-67c79e9eaf65" name="Changes" comment="step 3">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/linter.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/workflows/nodejs.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.npmrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__fixtures__/file1.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__fixtures__/file2.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__fixtures__/file_result.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__tests__/parser.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/buiddiff.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/parsers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jest.config.mjs" afterDir="false" />
+    <list default="true" id="baf18927-f205-483c-a4ca-67c79e9eaf65" name="Changes" comment="step 5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +20,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Denis Kaplin &lt;stronzii19@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -91,7 +81,7 @@
       <workItem from="1682412803247" duration="6231000" />
       <workItem from="1682959691278" duration="166000" />
       <workItem from="1683119271740" duration="2357000" />
-      <workItem from="1683718723090" duration="2568000" />
+      <workItem from="1683718723090" duration="3048000" />
     </task>
     <task id="LOCAL-00001" summary="step 2">
       <created>1679484071218</created>
@@ -107,7 +97,28 @@
       <option name="project" value="LOCAL" />
       <updated>1682507349141</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="step 5">
+      <created>1683723996513</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683723996514</updated>
+    </task>
+    <task id="LOCAL-00004" summary="step 5">
+      <created>1683724226455</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683724226455</updated>
+    </task>
+    <task id="LOCAL-00005" summary="step 5">
+      <created>1683724253661</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683724253661</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +128,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="step 2" />
     <MESSAGE value="step 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="step 3" />
+    <MESSAGE value="step 5 done" />
+    <MESSAGE value="step 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="step 5" />
   </component>
 </project>
